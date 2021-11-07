@@ -1,3 +1,3 @@
 # Typescript declare .d.ts demo
 
-hahhh
+node_modules/my-lib/index.d.ts
